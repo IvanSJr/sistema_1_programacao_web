@@ -4,3 +4,7 @@
 int main(int argv, char **argc) {
     printf("Hello World!\n");
 }
+
+float somaDoisNumeros(float a, float b){
+    return a + b;
+}

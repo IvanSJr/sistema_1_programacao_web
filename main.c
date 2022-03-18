@@ -8,3 +8,7 @@ int main(int argv, char **argc) {
 float somaDoisNumeros(float a, float b){
     return a + b;
 }
+
+int subtraiDoisInteiros(int a, int b){
+    return a - b;
+}
